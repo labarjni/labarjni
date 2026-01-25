@@ -16,6 +16,8 @@
 
 I build robust backend solutions while utilizing effective design patterns.
 
+**[More about me →](https://labarjni.ru)**
+
 ## 💼 Tech Stack
 
 ### **Backend Development**
