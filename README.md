@@ -51,7 +51,7 @@ I build robust backend solutions while utilizing effective design patterns.
 - **Russian:** Native
 - **English:** B1 (Intermediate)
 
-## 📫 Connect With Me
+## 📫 Contact me
 
 <div align="center">
 
@@ -72,8 +72,6 @@ I build robust backend solutions while utilizing effective design patterns.
 
 ## 🔧 Additional Technologies
 - **CI/CD** Pipelines
-- **REST API** Design
-- **Microservices** Architecture
 - **Server** Configuration
 - **Performance** Optimization
 
