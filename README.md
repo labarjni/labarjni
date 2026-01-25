@@ -75,7 +75,3 @@ I build robust backend solutions while utilizing effective design patterns.
 - **CI/CD** Pipelines
 - **Server** Configuration
 - **Performance** Optimization
-
----
-
-⭐ *Feel free to explore my repositories and don't hesitate to reach out for collaboration!*
