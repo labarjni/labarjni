@@ -51,14 +51,13 @@ I build robust backend solutions while utilizing effective design patterns.
 - **Russian:** Native
 - **English:** B1 (Intermediate)
 
-## 📫 Contact me
+## 📫 Contact Me
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@labarjni-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/labarjni)
 [![VK](https://img.shields.io/badge/VK-@labarjni-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/labarjni)
 [![YouTube](https://img.shields.io/badge/YouTube-@labarjni-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@labarjni)
-[![GitHub](https://img.shields.io/badge/GitHub-@labarjni-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/labarjni)
 
 </div>
 
