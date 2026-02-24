@@ -8,10 +8,10 @@
 
 ## 🧑‍💻 About Me
 
-**Backend Developer** specializing in Node.js, Java, and PHP. My expertise includes:
+**Backend Developer** specializing in Node.js, Java, and PHP. My stack includes:
 
 - **Minecraft Bedrock** server development (Java/PHP)
-- Chatbot and backend systems (Node.js)
+- Bots and backend systems (Node.js)
 - Web applications with React, Next.js, and Electron.js
 
 I build robust backend solutions while utilizing effective design patterns.
