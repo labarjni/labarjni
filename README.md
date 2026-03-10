@@ -38,7 +38,6 @@ I build robust backend solutions while utilizing effective design patterns.
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### **Infrastructure & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -46,12 +45,12 @@ I build robust backend solutions while utilizing effective design patterns.
 
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🌐 Languages
 - **Russian:** Native
 - **English:** B1 (Intermediate)
+- **Chinese:** Learning (HSK-1)
 
 ## 📫 Contact Me
 
